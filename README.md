@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&show_icons=true&theme=default" />
 </a>
 
-<a href="https://github.com/onkar-shaligram/onkar-shaligram">
+<a href="https://github.com/mayankpathak10299">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
 </details>
