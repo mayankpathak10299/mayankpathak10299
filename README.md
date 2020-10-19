@@ -1,14 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
+### Hi there myself Mayank ! <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif">
 </p>
 
-- 🌱 I’m currently learning **Web Development, Mobile App Development, Data Structures & Algorithms**
-- 🤔 I’m looking for help with **App, Web Devlopment & DSA 🤨🧐**
-- 💬 Ask me Pretty Much **Anything you want😁**
+- 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
+- 🤔 I’m looking for help with **App, Web Devlopment & cv 🤨🧐**
+- 💬 Ask me Pretty Much **Anything you want and  anytime 😁**
 - 📫 Reach me at **<a href = "https://www.linkedin.com/in/mayank-pathak-81b1aa19a/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
-- ⚡ Fun fact: **I MISS PUBG ❤ 😂🔫**
+- ⚡ Fun fact: **I LOVE CODING ❤ 😂🔫**
 
 ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 
