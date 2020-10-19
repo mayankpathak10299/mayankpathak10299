@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
+  <img width="460" height="300" src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif">
 </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, Data Structures & Algorithms**
