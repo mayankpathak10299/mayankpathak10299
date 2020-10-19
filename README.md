@@ -5,9 +5,9 @@
 </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, Data Structures & Algorithms**
-- 🤔 I’m looking for help with **Flutter, Web Devlopment & DSA 🤨🧐**
+- 🤔 I’m looking for help with **App, Web Devlopment & DSA 🤨🧐**
 - 💬 Ask me Pretty Much **Anything you want😁**
-- 📫 Reach me at **<a href = "https://www.linkedin.com/in/onkar-shaligram-a9799b190/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
+- 📫 Reach me at **<a href = "https://www.linkedin.com/in/mayank-pathak-81b1aa19a/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
 - ⚡ Fun fact: **I MISS PUBG ❤ 😂🔫**
 
 ![Profile views](https://gpvc.arturio.dev/onkar-shaligram)
