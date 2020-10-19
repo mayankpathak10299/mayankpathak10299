@@ -10,16 +10,16 @@
 - 📫 Reach me at **<a href = "https://www.linkedin.com/in/mayank-pathak-81b1aa19a/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
 - ⚡ Fun fact: **I MISS PUBG ❤ 😂🔫**
 
-![Profile views](https://gpvc.arturio.dev/onkar-shaligram)
+![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 
 <details>
   <summary><b> Github Stats</b></summary>
-  <a href="https://github.com/onkar-shaligram/onkar-shaligram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-shaligram&show_icons=true&theme=default" />
+  <a href="https://github.com/mayankpathak10299/mayankpathak10299">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&show_icons=true&theme=default" />
 </a>
 
 <a href="https://github.com/onkar-shaligram/onkar-shaligram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar-shaligram&show_icons=true&line_height=40&count_private=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
 </details>
 
