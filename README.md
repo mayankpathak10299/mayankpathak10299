@@ -5,9 +5,9 @@
 </p>
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-                <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="mayank-pathak-81b1aa19a">
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="mayank-pathak-81b1aa19a">
                     <a class="LI-simple-link" href='https://in.linkedin.com/in/mayank-pathak-81b1aa19a?trk=profile-badge'>Mayank Pathak</a>
-                </div>
+</div>
 VISIT : https://mayankpathak.netlify.app/
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
 - 🤔 I’m looking for help with **App, Web Devlopment & cv 🤨🧐**
