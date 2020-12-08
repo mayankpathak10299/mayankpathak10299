@@ -26,6 +26,10 @@ VISIT : https://mayankpathak.netlify.app/
 <a href="https://github.com/mayankpathak10299">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
+</a>
+<a href="https://medium.com/@pathakmayank3">
+<img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  height="25" width="25" />
+</a>
 </details>
 
 -----
