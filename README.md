@@ -13,6 +13,7 @@ VISIT : https://mayankpathak.netlify.app/
 - 🤔 I’m looking for help with **App, Web Devlopment & cv 🤨🧐**
 - 💬 Ask me Pretty Much **Anything you want and  anytime 😁**
 - 📫 Reach me at **<a href = "https://www.linkedin.com/in/mayank-pathak-81b1aa19a/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
+- 📫 Reach me at **<a href = "https://medium.com/@pathakmayank/">Medium<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>**
 - ⚡ Fun fact: **I LOVE CODING ❤ 😂🔫**
 
 ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
@@ -26,9 +27,6 @@ VISIT : https://mayankpathak.netlify.app/
 <a href="https://github.com/mayankpathak10299">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
-</a>
-<a href="https://medium.com/@pathakmayank3">
-<img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  height="25" width="25" />
 </a>
 </details>
 
