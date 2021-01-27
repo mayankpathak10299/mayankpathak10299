@@ -1,7 +1,4 @@
 ### Hi there myself Mayank ! 🙏 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankpathak10299.mayankpathak10299)
-<a href="https://dev.to/mayankpathak10299">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
-</a>
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif">
@@ -34,9 +31,9 @@
   <br/>
   <summary><b>💻 My Accessories </b></summary>
   	<ul>
-      <li><b>OS:</b> Windows 10 20H2  </li>
-	    <li><b>Laptop: </b> Predator Triton 300 (i5-9th, GTX 1650)</li>
-  	  <li><b>Browser: </b> Google Chrome </li>
+      <li><b>OS:</b> Windows 10  <img src="https://img.icons8.com/color/24/000000/windows-10.png"/> </li>
+	    <li><b>Laptop: </b> Predator<img src="https://img.icons8.com/plumpy/24/000000/predator.png"/> Triton 300 (i5-9th Gen, GTX 1650) </li>
+  	  <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/doodle/48/000000/chrome.png"/></li>
 	    <li><b>Code Editor:</b>
 		   VSCode <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/>
 		    <br/>&<br/>
@@ -61,5 +58,8 @@
 </a>
 <a href="https://github.com/mayankpathak10299">
 <img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  height="25" width="25" />
+</a>
+<a href="https://dev.to/mayankpathak10299">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
 </a>
 </p>
