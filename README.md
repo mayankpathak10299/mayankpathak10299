@@ -37,7 +37,10 @@
       <li><b>OS:</b> Windows 10 20H2  </li>
 	    <li><b>Laptop: </b> Predator Triton 300 (i5-9th, GTX 1650)</li>
   	  <li><b>Browser: </b> Google Chrome </li>
-	    <li><b>Code Editor:</b> Mostly VSCode <img src="https://img.icons8.com/fluent/18/000000/visual-studio-code-2019.png"/> & IntelliJ IDEA <img src="https://img.icons8.com/material/24/000000/intellij-idea.png"/> </li>
+	    <li><b>Code Editor:</b>
+		   - **VSCode <img src="<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>>**
+		    <br/>
+		   - **IntelliJ IDEA <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </li>**
 	 <br/>
 	</ul>	
 </details>
