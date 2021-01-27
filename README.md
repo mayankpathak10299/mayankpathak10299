@@ -20,7 +20,7 @@
 - ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 
 <details>
-  <summary><b> Github Stats</b></summary>
+  <summary><b> Github Stats 📉</b></summary>
   <a href="https://github.com/mayankpathak10299/mayankpathak10299">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&show_icons=true&theme=default" />
 </a>
@@ -29,6 +29,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
 </a>
+</details>
+<details>	
+  <br/>
+  <summary><b>💻 My Accessories </b></summary>
+  	<ul>
+      <li><b>OS:</b> Windows 10 20H2  </li>
+	    <li><b>Laptop: </b> Predator Triton 300 (i5-9th, GTX 1650)</li>
+  	  <li><b>Browser: </b> Google Chrome </li>
+	    <li><b>Code Editor:</b> Mostly VSCode <img src="https://img.icons8.com/fluent/18/000000/visual-studio-code-2019.png"/> & IntelliJ IDEA <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </li>
+	 <br/>
+	  See My VSCode Configrations and settings at <a href=" ">here.</a>
+	</ul>	
 </details>
 
 -----
