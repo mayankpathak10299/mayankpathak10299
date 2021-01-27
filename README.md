@@ -1,4 +1,4 @@
-### Hi there myself Mayank ! <img src="https://raw.githubusercontent.com/mayankpathak10299/mayankpathak10299/master/wave.gif"width="30px">
+### Hi there myself Mayank ! 🙏
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankpathak10299.mayankpathak10299)
 <a href="https://dev.to/mayankpathak10299">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
