@@ -35,12 +35,12 @@
   <summary><b>💻 My Accessories </b></summary>
   	<ul>
       <li><b>OS:</b> Windows 10  <img src="https://img.icons8.com/color/24/000000/windows-10.png"/> </li>
-	    <li><b>Laptop: </b> Predator<img src="https://img.icons8.com/plumpy/22/000000/predator.png"/> Triton 300 (i5-9th Gen, GTX 1650) </li>
-  	  <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/doodle/22/000000/chrome.png"/></li>
+	    <li><b>Laptop: </b> Predator Triton 300 (i5-9th Gen, GTX 1650) <img src="https://img.icons8.com/plumpy/24/000000/predator.png"/> </li>
+  	  <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/doodle/24/000000/chrome.png"/></li>
 	    <li><b>Code Editor:</b>
-		   VSCode <img src="https://img.icons8.com/color/22/000000/visual-studio-code-2019.png"/>
+		   VSCode <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/>
 		    <br/>&<br/>
-		   IntelliJ IDEA <img src="https://img.icons8.com/color/22/000000/intellij-idea.png"/>
+		   IntelliJ IDEA <img src="https://img.icons8.com/color/24/000000/intellij-idea.png"/>
 		</li>
 	 <br/>
 	</ul>	
