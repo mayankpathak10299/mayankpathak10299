@@ -38,9 +38,10 @@
 	    <li><b>Laptop: </b> Predator Triton 300 (i5-9th, GTX 1650)</li>
   	  <li><b>Browser: </b> Google Chrome </li>
 	    <li><b>Code Editor:</b>
-		   - **VSCode <img src="<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>>**
+		   <li>VSCode <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></li>
 		    <br/>
-		   - **IntelliJ IDEA <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </li>**
+		   <li>IntelliJ IDEA <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </li>
+		</li>
 	 <br/>
 	</ul>	
 </details>
