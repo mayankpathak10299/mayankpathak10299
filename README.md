@@ -24,7 +24,6 @@
   <a href="https://github.com/mayankpathak10299/mayankpathak10299">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&show_icons=true&theme=default" />
 </a>
-
 <a href="https://github.com/mayankpathak10299">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
@@ -39,7 +38,7 @@
   	  <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/doodle/24/000000/chrome.png"/></li>
 	    <li><b>Code Editor:</b>
 		   VSCode <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/>
-		    <br/>&<br/>
+		    &
 		   IntelliJ IDEA <img src="https://img.icons8.com/color/24/000000/intellij-idea.png"/>
 		</li>
 	 <br/>
