@@ -5,10 +5,6 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif">
 </p>
-- **🏆 Github Profile Trophy**
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=flat"/>
-</a>
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
 - 🤔 I’m looking for help with **App, Web Devlopment & CV 🤨🧐**
 - 💬 Ask me Pretty Much **Anything you want and  anytime 😁**
@@ -20,6 +16,10 @@
 - **Show some ❤️ by giving ⭐ to my repositories and you can also fork them and make your contribution!**
 - ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankpathak10299.mayankpathak10299)
+- **🏆 Github Profile Trophy**
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=flat"/>
+</a>
 <details>
   <summary><b> Github Stats 📉</b></summary>
   <a href="https://github.com/mayankpathak10299/mayankpathak10299">
