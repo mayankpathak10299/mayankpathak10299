@@ -59,7 +59,7 @@
 <img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  height="25" width="25" />
 </a>
 </p>
-**🏆 Github Profile Trophy
+🏆 Github Profile Trophy<br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=flat"/>
 </a>
