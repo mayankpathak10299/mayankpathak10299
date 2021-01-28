@@ -60,4 +60,4 @@
 <img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  height="25" width="25" />
 </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayankpathak10299)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayankpathak10299)](https://github.com/mayankpathak10299/github-profile-trophy)
