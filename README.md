@@ -1,7 +1,6 @@
 ### Hi there myself Mayank ! 🙏 <a href="https://dev.to/mayankpathak10299">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
 </a>
-
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif">
 </p>
@@ -17,10 +16,6 @@
 - ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankpathak10299.mayankpathak10299)
 
-**🏆 Github Profile Trophy**
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=flat"/>
-</a>
 <details>
   <summary><b> Github Stats 📉</b></summary>
   <a href="https://github.com/mayankpathak10299/mayankpathak10299">
