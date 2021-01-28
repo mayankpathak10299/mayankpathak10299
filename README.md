@@ -19,7 +19,6 @@
 - ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankpathak10299.mayankpathak10299)
 - 🏆 Github Profile Trophy
-<br/> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true"/>
 </a>
