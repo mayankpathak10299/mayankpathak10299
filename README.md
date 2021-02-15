@@ -2,7 +2,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
 </a>
 
-  <img align="right" height="240" width="355" src="https://cdn.dribbble.com/users/926537/screenshots/4789010/hr-22.gif">
+  <img align="right" height="340" width="455" src="https://cdn.dribbble.com/users/926537/screenshots/4789010/hr-22.gif">
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
 - 🤔 I’m looking for help with **App, Web Devlopment & CV 🤨🧐**
