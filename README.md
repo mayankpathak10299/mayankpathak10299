@@ -1,7 +1,7 @@
 ### Hi there myself Mayank ! 🙏 <a href="https://dev.to/mayankpathak10299">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
 </a>
-  <img align="right" height="430" width="580" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
+  <img align="right" height="380" width="530" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
   
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
 - 🤔 I’m looking for help with **App, Web Devlopment & CV 🤨🧐**
