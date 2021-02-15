@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-<iframe src="https://giphy.com/embed/3o6ZtpxSZbQRRnwCKQ" width="480" height="321" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ">via GIPHY</a></p>
+  <img width="560" height="200" src="https://giphy.com/gifs/3o6ZtpxSZbQRRnwCKQ/html5">
 </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
