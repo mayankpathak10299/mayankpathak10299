@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif">
+  <img width="460" height="300" src="https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ">
 </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
