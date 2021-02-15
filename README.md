@@ -1,7 +1,7 @@
 ### Hi there myself Mayank ! 🙏 <a href="https://dev.to/mayankpathak10299">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
 </a>
-<p align="center">
+<p align="right">
   <img width="650" height="400" src="https://cdn.dribbble.com/users/926537/screenshots/4789010/hr-22.gif">
 </p>
 
