@@ -2,7 +2,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
 </a>
 <p align="center">
-  <img width="350" height="350" src="https://media2.giphy.com/media/S3WAKL1SRsyPFztDzC/giphy.gif?cid=ecf05e47fb17p6g9fa1dfl0aiyskr1vez7mtcftgpn1zm2vq&rid=giphy.gif">
+  <img width="650" height="350" src="https://cdn.dribbble.com/users/926537/screenshots/4789010/hr-22.gif">
 </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
