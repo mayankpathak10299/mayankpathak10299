@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
 - 🤔 I’m looking for help with **App, Web Devlopment & CV 🤨🧐**
-- 💬 Ask me Pretty Much **Anything you want and  anytime 😁**
+- 💬 Who I am **An enthusiastic computer science student😁**
 - 🌐 My Portfolio **<a href ="https://webmvp.netlify.app">Click here 👆🏻</a>**
 - 📫 Reach me at **<a href = "https://www.linkedin.com/in/mayank-pathak-81b1aa19a/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
 
