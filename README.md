@@ -59,3 +59,4 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=flat"/>
 </a>
+https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&theme=dark
