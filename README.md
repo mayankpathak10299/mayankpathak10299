@@ -11,6 +11,8 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&theme=default">
 </p>
 
+## **About Me:**
+App Developer • Web Developer • Graphic Designer • Noob Coder 
 ---
 ## **Github Stats:**
 
