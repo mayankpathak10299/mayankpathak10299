@@ -35,7 +35,7 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 -----
 <h2 align="center">Github Profile Trophy🏆</h2>
 <p>
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=false&theme=light"/>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=false&theme=dark"/>
 	</a>
 </p>
 
