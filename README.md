@@ -4,7 +4,7 @@
 - Building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
 - My Portfolio **<a href ="https://webmvp.netlify.app">Click Here</a>**
 - Show some ❤️ by giving ⭐ to **my repositories and you can also fork them and make your contribution!**
-- 🌱Learning all about **Open Source**
+- Learning all about **Open Source**
 - **I am currently brushing up my skills and plan to learn Devlopment skills more and more**
 - I love to contribute to **open source projects 💡**
 
