@@ -1,4 +1,4 @@
-### Hi there myself Mayank ! 🙏 <a href="https://dev.to/mayankpathak10299">
+## **Hi there myself Mayank ! 🙏** <a href="https://dev.to/mayankpathak10299">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
 </a>
   <img align="right" height="330" width="460" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
@@ -35,7 +35,7 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 -----
 <h2 align="center">Github Profile Trophy🏆</h2>
 <p>
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=false&theme=dark"/>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=false"/>
 	</a>
 </p>
 
