@@ -4,8 +4,6 @@
   <img align="right" height="330" width="460" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
   
 - 🌱 I’m currently learning **Web Development, Mobile App Development, and some coding stuffs**
-- 🤔 I’m looking for help with **App, Web Devlopment & CV 🤨🧐**
-- 💬 Who I am ? **An enthusiastic computer science student😁**
 - 🌐 My Portfolio **<a href ="https://webmvp.netlify.app">Click here 👆🏻</a>**
 - 📫 Reach me at **<a href = "https://www.linkedin.com/in/mayank-pathak-81b1aa19a/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
 
@@ -16,6 +14,7 @@
 - **Show some ❤️ by giving ⭐ to my repositories and you can also fork them and make your contribution!**
 - ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankpathak10299.mayankpathak10299)
+
 ## **Github Streak:**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&theme=default">
@@ -23,17 +22,16 @@
 
 ---
 
+## **Github Stats:**
 
-<details>
-  <summary><b> Github Stats 📉</b></summary>
-  <a href="https://github.com/mayankpathak10299/mayankpathak10299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/mayankpathak10299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&show_icons=true&line_height=40&count_private=true&theme=default" />
-</a>
-</a>
-</details>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&count_private=true&line_height=40&theme=dark">
+
+</p>
+
+---
 <details>	
   <br/>
   <summary><b>💻 My Accessories </b></summary>
