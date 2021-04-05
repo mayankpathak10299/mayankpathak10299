@@ -31,12 +31,12 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 	<li><b>Browser: </b>Google Chrome</li>
 </p>
 -----
-<h2 align="center">Github Profile Trophy🏆</h2>
+<!--<h2 align="center">Github Profile Trophy🏆</h2>
 <p>
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=false"/>
 	</a>
 </p>
-
+-->
 <h2 align="center">Find me on 😃</h2>
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/mayank-pathak-81b1aa19a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
