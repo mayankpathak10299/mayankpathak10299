@@ -32,7 +32,7 @@
 </p>
 
 ---
-## **💻 My Accessories:**
+## **My Accessories 💻:**
 <p>
 	<li><b>OS:</b> **Windows 10** </li>
 	<li><b>Laptop: </b> **Predator Triton 300 (i5-9th Gen, GTX 1650)** </li>
@@ -56,7 +56,6 @@
 </p>
 ## **Github Profile Trophy🏆**
 <p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=light"/>
-</a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=light"/>
+	</a>
 </p>
