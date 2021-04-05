@@ -32,15 +32,11 @@
 </p>
 
 ---
-##**💻 My Accessories:**
+## **💻 My Accessories:**
 <p>
-      <li><b>OS:</b> Windows 10  <img src="https://img.icons8.com/color/24/000000/windows-10.png"/> </li>
-	    <li><b>Laptop: </b> Predator Triton 300 (i5-9th Gen, GTX 1650) <img src="https://img.icons8.com/plumpy/24/000000/predator.png"/> </li>
-  	  <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/doodle/24/000000/chrome.png"/></li>
-	    <li><b>Code Editor:</b>
-		   •<b> VSCode </b> <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/> • <b> IntelliJ IDEA </b> <img src="https://img.icons8.com/color/24/000000/intellij-idea.png"/>
-		</li>
-	 <br/>
+	<li><b>OS:</b> Windows 10  <img src="https://img.icons8.com/color/24/000000/windows-10.png"/> </li>
+	<li><b>Laptop: </b> Predator Triton 300 (i5-9th Gen, GTX 1650) <img src="https://img.icons8.com/plumpy/24/000000/predator.png"/> </li>
+	<li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/doodle/24/000000/chrome.png"/></li>
 </p>
 -----
 <p align="center">
