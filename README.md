@@ -6,14 +6,17 @@
 - Building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
 - My Portfolio **<a href ="https://webmvp.netlify.app">Click Here</a>**
 - **Show some ❤️ by giving ⭐ to my repositories and you can also fork them and make your contribution!**
+
+
+## **About Me:**
+App Developer • Web Developer • Graphic Designer • Noob Coder 
+---
+
 ## **Github Streak:**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&theme=default">
 </p>
 
-## **About Me:**
-App Developer • Web Developer • Graphic Designer • Noob Coder 
----
 ## **Github Stats:**
 
 <p align="center">
