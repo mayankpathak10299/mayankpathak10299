@@ -21,10 +21,8 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 ## **Github Stats**
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&count_private=true&line_height=40&theme=dark">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&hide=stars&show_icons=true&line_height=48&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&count_private=true&line_height=40&theme=default">
 </p>
 
 ---
@@ -39,4 +37,13 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 <p>
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=light"/>
 	</a>
+</p>
+
+<h2 align="center">Find me on 😃</h2>
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/mayank-pathak-81b1aa19a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/MayankP17560107"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:pathakmayankrock@gmail.com?subject=Hey%20Mayank,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@pathakmayank/"><img src="https://img.shields.io/badge/medium-%ffffff.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
