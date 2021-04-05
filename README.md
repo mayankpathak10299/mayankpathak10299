@@ -38,7 +38,7 @@
 	<li><b>Browser: </b> **Google Chrome**</li>
 </p>
 -----
-## **Github Profile Trophy🏆**
+<h2>Github Profile Trophy🏆</h2>
 <p>
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=light"/>
 	</a>
