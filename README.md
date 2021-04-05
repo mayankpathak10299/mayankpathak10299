@@ -28,14 +28,14 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 ---
 ## **My Accessories 💻**
 <p>
-	<li><b>OS:</b> **Windows 10** </li>
-	<li><b>Laptop: </b> **Predator Triton 300 (i5-9th Gen, GTX 1650)** </li>
-	<li><b>Browser: </b> **Google Chrome**</li>
+	<li><b>OS:</b>Windows 10</li>
+	<li><b>Laptop: </b>Predator Triton 300 (i5-9th Gen, GTX 1650)</li>
+	<li><b>Browser: </b>Google Chrome</li>
 </p>
 -----
 <h2 align="center">Github Profile Trophy🏆</h2>
 <p>
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=light"/>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=false&theme=light"/>
 	</a>
 </p>
 
