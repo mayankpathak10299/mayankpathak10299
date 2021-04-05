@@ -21,7 +21,6 @@
 </p>
 
 ---
-
 ## **Github Stats:**
 
 <p align="center">
@@ -39,21 +38,6 @@
 	<li><b>Browser: </b> **Google Chrome**</li>
 </p>
 -----
-<p align="center">
-<a href="https://twitter.com/MayankP17560107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="25" width="25" /></a>
-<a href="https://www.linkedin.com/in/mayank-pathak-81b1aa19a//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="25" width="25" /></a>
-  <a href="https://discord.gg/KuPv8F" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png"  height="40" width="40" />
- </a>
-<a href="https://medium.com/@pathakmayank3">
-<img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  height="25" width="25" />
-</a>
-<a href="https://www.hackerrank.com/mayank_pathak201">
-<img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"  height="25" width="25" />
-</a>
-<a href="https://github.com/mayankpathak10299">
-<img align="center" alt="mayankpathak10299 medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  height="25" width="25" />
-</a>
-</p>
 ## **Github Profile Trophy🏆**
 <p>
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mayankpathak10299&column=7&theme=gruvbox&no-frame=true&no-bg=true&theme=light"/>
