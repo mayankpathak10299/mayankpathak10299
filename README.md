@@ -27,9 +27,9 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 
 ## **My Accessories 💻**
 <p>
-	<li><b>OS:</b>Windows 10</li>
-	<li><b>Laptop: </b>Predator Triton 300 (i5-9th Gen, GTX 1650)</li>
-	<li><b>Browser: </b>Google Chrome</li>
+	<li><b>OS: </b> Windows 10</li>
+	<li><b>Laptop: </b> Predator Triton 300 (i5-9th Gen, GTX 1650)</li>
+	<li><b>Browser: </b> Google Chrome</li>
 </p>
 
 
@@ -39,7 +39,7 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 	</a>
 </p>
 -->
-<h2 align="center">Find me on 😃</h2>
+<h2 align="center">Other Platform✌</h2>
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/mayank-pathak-81b1aa19a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="https://twitter.com/MayankP17560107"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
