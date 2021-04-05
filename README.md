@@ -16,7 +16,6 @@
 
 ## **About Me:**
 App Developer • Web Developer • Graphic Designer • Noob Coder
----
 
 ## **Github Streak:**
 <p align = "center">
