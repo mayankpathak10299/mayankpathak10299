@@ -16,6 +16,14 @@
 - **Show some ❤️ by giving ⭐ to my repositories and you can also fork them and make your contribution!**
 - ![Profile views](https://gpvc.arturio.dev/mayankpathak10299)
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankpathak10299.mayankpathak10299)
+## **Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&theme=default">
+</p>
+
+---
+
+
 <details>
   <summary><b> Github Stats 📉</b></summary>
   <a href="https://github.com/mayankpathak10299/mayankpathak10299">
