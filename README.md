@@ -9,7 +9,7 @@
 - **I love to contribute to open source projects 💡**
 
 ## **About Me😎**
-App Developer • Web Developer • Graphic Designer • Noob Coder
+App Developer • Web Developer • Graphic Designer
 
 ## **Github Streak**
 <p align = "center">
