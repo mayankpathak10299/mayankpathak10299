@@ -9,7 +9,7 @@
 
 <br>
 <br>
-## **About Me:**
+<h2 align="center"> About Me:</h2>
 App Developer • Web Developer • Graphic Designer • Noob Coder 
 ---
 
