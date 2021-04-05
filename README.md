@@ -1,6 +1,4 @@
-## **Hi there myself Mayank ! 🙏** <a href="https://dev.to/mayankpathak10299">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
-</a>
+## **Hi there myself Mayank ! 🙏** 
   <img align="right" height="330" width="460" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
   
 - **Building myself strong in Web Development, Mobile App Development, and some coding stuffs**
@@ -9,6 +7,9 @@
 - 🌱 **Learning all about Open Source**
 - **I am currently brushing up my skills and plan to learn Devops, Golang and Terraform.**
 - **I love to contribute to open source projects 💡**
+- <a href="https://dev.to/mayankpathak10299">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
+</a>
 
 ## **About Me😎**
 App Developer • Web Developer • Graphic Designer • Noob Coder
