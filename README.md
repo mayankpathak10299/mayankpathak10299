@@ -10,15 +10,15 @@
 - **I am currently brushing up my skills and plan to learn Devops, Golang and Terraform.**
 - **I love to contribute to open source projects 💡**
 
-## **About Me:**
+## **About Me😎**
 App Developer • Web Developer • Graphic Designer • Noob Coder
 
-## **Github Streak:**
+## **Github Streak**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&theme=default">
 </p>
 
-## **Github Stats:**
+## **Github Stats**
 
 <p align="center">
   
@@ -28,7 +28,7 @@ App Developer • Web Developer • Graphic Designer • Noob Coder
 </p>
 
 ---
-## **My Accessories 💻:**
+## **My Accessories 💻**
 <p>
 	<li><b>OS:</b> **Windows 10** </li>
 	<li><b>Laptop: </b> **Predator Triton 300 (i5-9th Gen, GTX 1650)** </li>
