@@ -7,9 +7,6 @@
 - 🌱 **Learning all about Open Source**
 - **I am currently brushing up my skills and plan to learn Devops, Golang and Terraform.**
 - **I love to contribute to open source projects 💡**
-- <a href="https://dev.to/mayankpathak10299">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank10299's DEV Profile" height="30" width="30">
-</a>
 
 ## **About Me😎**
 App Developer • Web Developer • Graphic Designer • Noob Coder
