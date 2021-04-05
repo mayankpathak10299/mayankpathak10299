@@ -6,14 +6,17 @@
 - Building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
 - **My Portfolio** **<a href ="https://webmvp.netlify.app">Click Here</a>**
 - **Show some ❤️ by giving ⭐ to my repositories and you can also fork them and make your contribution!**
+- 🌱 **Learning all about Open Source**
+- **I am currently brushing up my skills and plan to learn Devops, Golang and Terraform.**
+- **I love to contribute to open source projects 💡**
 <p> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/mayankpathak10299/count.svg" />
 </p>
 
-<h2 align="center"> About Me 😎</h2>
+## **About Me:**
 App Developer • Web Developer • Graphic Designer • Noob Coder
-
+---
 
 ## **Github Streak:**
 <p align = "center">
