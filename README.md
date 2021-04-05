@@ -9,7 +9,7 @@
 - 🌱 **Learning all about Open Source**
 - **I am currently brushing up my skills and plan to learn Devops, Golang and Terraform.**
 - **I love to contribute to open source projects 💡**
-<p> 
+<p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/mayankpathak10299/count.svg" />
 </p>
