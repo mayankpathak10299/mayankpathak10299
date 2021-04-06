@@ -2,9 +2,13 @@
   <img align="right" height="300" width="420" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
   
 - Building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
+- 
 - My Portfolio **<a href ="https://webmvp.netlify.app">Click Here</a>**
+- 
 - Show some ❤️ by giving ⭐ to **my repositories and you can also fork them and make your contribution!**
+- 
 - Learning all about **Open Source**
+- 
 - I love to contribute to **open source projects 💡**
 
 ## **About Me😎**
