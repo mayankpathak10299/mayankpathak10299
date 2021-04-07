@@ -3,17 +3,15 @@
  <!--<img align="right" height="300" width="420" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">-->
  <img align="right" height="410" width="300" src="image.png">
 
-- Hii visitor 😊 Mayank here, I am focusing on:
-
-- Building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
+- Hii visitor 😊 Mayank here, I am focusing on building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
 
 - My Portfolio **<a href ="https://webmvp.netlify.app">Click Here</a>**
 
 - Show some ❤️ by giving ⭐ to **my repositories and you can also fork them and make your contribution!**
 
-- Learning all about **Open Source**
+- Learning all about **Open Source** and I love to contribute to **open source projects 💡**
 
-- I love to contribute to **open source projects 💡**
+- Ask me anything related to my skills.
 
 ## **About Me😎**
 **App Developer • Web Developer • Graphic Designer**
