@@ -1,9 +1,10 @@
 <h1 align="center"> ॥ जय महाकाल ॐ ॥ </h1>
-## Hii visitor 😊
 	
  <!--<img align="right" height="300" width="420" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">-->
  <img align="right" height="450" width="490" src="https://pngfile.net/public/uploads/preview/har-har-mahadev-hindi-text-png-free-download-11580804906ttugrjmyrd.png">
 
+- Hii visitor 😊 Mayank here, I am focusing on:
+- 
 - Building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
 
 - My Portfolio **<a href ="https://webmvp.netlify.app">Click Here</a>**
