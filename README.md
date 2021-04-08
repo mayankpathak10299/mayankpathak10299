@@ -18,14 +18,14 @@
 
 ## **Github Streak**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&hide_border=true&theme=auto">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak10299&line_height=40&hide_border=true&theme=dark">
 </p>
 
 ## **Github Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&hide=stars&show_icons=true&hide_border=true&line_height=48&theme=auto">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&count_private=true&hide_border=true&line_height=40&theme=auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&hide=stars&show_icons=true&hide_border=true&line_height=48&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&count_private=true&hide_border=true&line_height=40&theme=dark">
 <!--<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10%22%20%20width=%22100%"> -->
 </p>
 
