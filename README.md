@@ -5,7 +5,7 @@
 
 - Hii visitor 😊 Mayank here, I am focusing on building myself strong in **Front-end Web Development, Mobile App Development, and some coding stuffs**
 
-- My Portfolio **<a href ="https://portfolioipromvp.vercel.app/" target="_blank">Click Here</a>**
+- My Portfolio **<a href = "https://portfolioi-mvp.vercel.app/">Click Here</a>**
 
 - Show some ❤️ by giving ⭐ to **my repositories and you can also fork them and make your contribution!**
 
