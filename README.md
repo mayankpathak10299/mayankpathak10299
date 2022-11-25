@@ -3,7 +3,7 @@
  <!--<img align="right" height="300" width="420" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">-->
  <img align="right" height="330" width="240" src="image.png">
 
-- Hii visitor 😊 Mayank here, I am focusing on building myself strong in **Web Development, Mobile App Development, and some coding stuffs**
+- Hii visitor 😊 Mayank here, I am focusing on building myself strong in **Front-end Web Development, Mobile App Development, and some coding stuffs**
 
 - My Portfolio **<a href ="http://mayankmvp.netlify.app/">Click Here</a>**
 
@@ -14,7 +14,7 @@
 - Ask me anything related to my skills.
 
 ## **About Me😎**
-**App Developer • Web Developer • Graphic Designer**
+**App Developer • Web Developer • Graphic Designer • React Js**
 
 ## **Github Streak**
 <p align = "center">
