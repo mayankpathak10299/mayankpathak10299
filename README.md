@@ -14,7 +14,7 @@
 - Ask me anything related to my skills.
 
 ## **About Me😎**
-**App Developer • Web Developer • Graphic Designer • React Js**
+**App Developer • Web Developer • Graphic Designer • Vite & React Js**
 
 ## **Github Streak**
 <p align = "center">
