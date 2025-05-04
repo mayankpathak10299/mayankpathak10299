@@ -7,10 +7,8 @@
 -->
 
 ## **About Me😎**
-<-- Angular  • App Developer • Web Developer • Graphic Designer • Vite & React Js -->
 
 - Hey there! I'm Mayank — a Software Development Engineer at Digit Insurance, with a strong focus on Frontend Development using Angular, and a flair for design and user experience.
-
 - 🌐 Passionate about building sleek web interfaces, developing mobile apps, and writing clean, efficient code.
 - 🧠 5⭐ coder on HackerRank and a proud Computer Science graduate from VIT Bhopal.
 - 🎨 Also a Graphics Designer — creativity meets logic in everything I build.
