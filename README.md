@@ -2,16 +2,16 @@
 	
  <!--<img align="right" height="300" width="420" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">-->
  <img align="right" height="330" width="240" src="image.png">
-
-- Hii visitor 😊 Mayank here, I am focusing on building myself strong in **Front-end Web Development, Mobile App Development, and some coding stuffs**
  <!--
 - My Portfolio **<a href = "https://portfolioi-mvp.vercel.app/">Click Here</a>**
 -->
-- Show some ❤️ by giving ⭐ to **my repositories and you can also fork them and make your contribution!**
+- 👋 Hey there! I'm Mayank — a passionate learner currently diving deep into Front-End Web Development, Mobile App Development, and leveling up my skills in coding and problem-solving.
 
-- Learning all about **Open Source** and I love to contribute to **open source projects 💡**
+- 🚀 I'm actively exploring the world of Open Source and love contributing to projects that make a difference.
 
-- Ask me anything related to my skills.
+- ✨ If you find my work helpful, consider giving a ⭐ to my repositories — your support means a lot! Feel free to fork and collaborate too — I'm always open to learning and growing together.
+
+- 💬 Got questions related to my skill set? Don’t hesitate to reach out — I’m happy to help!
 
 ## **About Me😎**
 **App Developer • Web Developer • Graphic Designer • Vite & React Js**
