@@ -16,7 +16,7 @@
 - 🎨 Also a Graphics Designer — creativity meets logic in everything I build.
 - 💡 Exploring and contributing to Open Source, always eager to learn and collaborate.
 
-= If you like what you see, drop a ⭐ on my repos and feel free to fork & contribute!
+- If you like what you see, drop a ⭐ on my repos and feel free to fork & contribute!
 Let’s connect and build something awesome together.
 
 <!--
