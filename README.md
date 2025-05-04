@@ -17,6 +17,7 @@
 
 - 💬 Got questions related to my skill set? Don’t hesitate to reach out — I’m happy to help!
 
+<!--
 
 ## **Github Streak**
 <p align = "center">
@@ -28,8 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak10299&hide=stars&show_icons=true&hide_border=true&line_height=48&theme=default">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&count_private=true&hide_border=true&line_height=40&theme=default">
-<!--<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10%22%20%20width=%22100%"> -->
-</p>
+<!-- <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak10299&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10%22%20%20width=%22100%">  </p> -->
 
 ---
 
