@@ -5,6 +5,10 @@
  <!--
 - My Portfolio **<a href = "https://portfolioi-mvp.vercel.app/">Click Here</a>**
 -->
+
+## **About Me😎**
+**App Developer • Web Developer • Graphic Designer • Vite & React Js**
+
 - 👋 Hey there! I'm Mayank — a passionate learner currently diving deep into Front-End Web Development, Mobile App Development, and leveling up my skills in coding and problem-solving.
 
 - 🚀 I'm actively exploring the world of Open Source and love contributing to projects that make a difference.
@@ -13,8 +17,6 @@
 
 - 💬 Got questions related to my skill set? Don’t hesitate to reach out — I’m happy to help!
 
-## **About Me😎**
-**App Developer • Web Developer • Graphic Designer • Vite & React Js**
 
 ## **Github Streak**
 <p align = "center">
@@ -37,7 +39,6 @@
 	<li><b>Laptop: </b> Predator Triton 300</li>
 	<li><b>Browser: </b> Google Chrome</li>
 </p>
-
 
 <!--<h2 align="center">Github Profile Trophy🏆</h2>
 <p>
