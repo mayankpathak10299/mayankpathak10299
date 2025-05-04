@@ -7,7 +7,7 @@
 -->
 
 ## **About Me😎**
-**App Developer • Web Developer • Graphic Designer • Vite & React Js**
+**Angular  • App Developer • Web Developer • Graphic Designer • Vite & React Js**
 
 - 👋 Hey there! I'm Mayank — a passionate learner currently diving deep into Front-End Web Development, Mobile App Development, and leveling up my skills in coding and problem-solving.
 
